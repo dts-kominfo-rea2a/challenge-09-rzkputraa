@@ -4,5 +4,17 @@
   flex-direction: column;
   align-items: center;
 
-  background-color: rgb(193, 148, 82);
+  background-color: rgb(19, 19, 19);
+}
+
+.header-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5px;
+}
+
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
